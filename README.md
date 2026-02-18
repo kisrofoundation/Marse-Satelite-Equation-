@@ -1,5 +1,3 @@
----
-
 ## Archival Information
 
 - DOI: 10.5281/zenodo.18671900
