@@ -76,3 +76,14 @@ This work is presented as a theoretical hypothesis and conceptual model. It has 
 
 # Marse-Satelite-Equation-
 This repository contains the complete LaTeX source code of the research manuscript titled “Mathematical Formulation of the Dilaso Spiral Wave Force.” The project is structured to support transparent, version-controlled academic development using standard scientific publishing tools.
+
+---
+
+## Archival Information
+
+- DOI: 10.5281/zenodo.18671900
+- Software Heritage ID: swh:1:dir:6ffabc611b8c5ede0ae66996eeac...
+- Indexed in: OpenAIRE
+
+This repository is permanently preserved via Zenodo and Software Heritage 
+to ensure transparency, reproducibility, and long-term academic access.
