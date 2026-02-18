@@ -1,3 +1,14 @@
+---
+
+## Archival Information
+
+- DOI: 10.5281/zenodo.18671900
+- Software Heritage ID: swh:1:dir:6ffabc611b8c5ede0ae66996eeac...
+- Indexed in: OpenAIRE
+
+This repository is permanently preserved via Zenodo and Software Heritage 
+to ensure transparency, reproducibility, and long-term academic access.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18671900.svg)](https://doi.org/10.5281/zenodo.18671900)
 
 ## 📖 Citation
