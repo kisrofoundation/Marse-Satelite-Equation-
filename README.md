@@ -72,30 +72,26 @@ This conceptual model attempts to extend classical tidal interaction frameworks 
 
 ---
 
-# 📐 Mathematical Model
+## 📐 Mathematical Model
 
 The theoretical framework is constructed using simplified dynamical relationships between orbital resonance and wave propagation.
 
 Example conceptual expression:
 
-\[
+$$
 F_{dsw} = k \cdot \frac{M_p M_s}{r^2} \cdot \sin(\omega t)
-\]
+$$
 
 Where:
 
-- \(F_{dsw}\) = Dilaso Spiral Wave Force  
-- \(M_p\) = Mass of the planet  
-- \(M_s\) = Mass of the satellite  
-- \(r\) = Orbital distance  
-- \(k\) = coupling coefficient  
-- \(\omega\) = resonance frequency  
+- $F_{dsw}$ = Dilaso Spiral Wave Force  
+- $M_p$ = Mass of the planet  
+- $M_s$ = Mass of the satellite  
+- $r$ = Orbital distance  
+- $k$ = coupling coefficient  
+- $\omega$ = resonance frequency  
 
 The repository includes detailed **LaTeX equations and derivations** used to formulate the proposed model.
-
----
----
-
 # 🔬 Research Impact
 
 This research introduces a conceptual framework for analyzing gravitational interactions in multi-moon planetary systems.
