@@ -17,19 +17,28 @@ If you use this work, please cite:
 
 Lalgi, D. (2026). *Mathematical Formulation of the Moons' of Marse *. Zenodo. https://doi.org/10.5281/zenodo.18671900
 
-### BibTeX
+# Mathematical Formulation of the Moons of Mars
 
-```bibtex
-@misc{lalgi2026dswf,
-  author       = {Dineshkumar Lalgi},
-  title        = {Mathematical Formulation of the Moons' of Marse },
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18671900},
-  url          = {https://doi.org/10.5281/zenodo.18671900}
-}
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18671900.svg)](https://doi.org/10.5281/zenodo.18671900)
+
+This repository contains the complete **LaTeX source code** of the research manuscript titled:
+
+**“Mathematical Formulation of the Dilaso Spiral Wave Force.”**
+
+The project is structured to support **transparent, version-controlled academic development** using standard scientific publishing tools.
 
 ---
+
+# 📄 Citation
+
+If you use this work, please cite it as:
+
+**APA Style**
+
+Lalgi, D. (2026).  
+*Mathematical Formulation of the Moons of Mars.*  
+Zenodo.  
+https://doi.org/10.5281/zenodo.18671900
 
 # 🔷 3️⃣ CITATION.cff File (Repository Root Me Banayein)
 
