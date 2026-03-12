@@ -9,14 +9,6 @@ to ensure transparency, reproducibility, and long-term academic access.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18671900.svg)](https://doi.org/10.5281/zenodo.18671900)
 
-## 📖 Citation
-
-If you use this work, please cite:
-
-### APA Format
-
-Lalgi, D. (2026). *Mathematical Formulation of the Moons' of Marse *. Zenodo. https://doi.org/10.5281/zenodo.18671900
-
 # Mathematical Formulation of the Moons of Mars
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18671900.svg)](https://doi.org/10.5281/zenodo.18671900)
@@ -102,15 +94,74 @@ Where:
 The repository includes detailed **LaTeX equations and derivations** used to formulate the proposed model.
 
 ---
+---
 
-# 📄 Citation
+# 🔬 Research Impact
 
-If you use this work in your research, please cite it as:
+This research introduces a conceptual framework for analyzing gravitational interactions in multi-moon planetary systems.
 
-**APA Style**
+The proposed **Dilaso Spiral Wave Dynamics** model attempts to extend traditional tidal interaction theory by exploring the possibility of spiral-like wave propagation within gravitationally coupled planetary bodies.
 
-Lalgi, D. (2026).  
-*Mathematical Formulation of Moons' of Marse.*  
-Zenodo.  
-https://doi.org/10.5281/zenodo.18671900
+Potential contributions of this research include:
 
+- Conceptual extension of classical tidal interaction theory  
+- Alternative perspective on orbital resonance dynamics  
+- Exploration of wave-based gravitational interaction models  
+- A theoretical framework for studying multi-moon planetary systems  
+
+This work aims to stimulate **further academic discussion, mathematical modeling, and observational verification** in the field of celestial mechanics.
+
+---
+
+# 📜 License
+
+This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose  
+
+Under the following condition:
+
+- **Attribution** — Proper credit must be given to the original author.
+
+More details:  
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+# 👤 Author
+
+**Dineshkumar Lalgi**  
+Independent Researcher  
+
+📧 Email: kisrofoundation@gmail.com  
+
+📍 Research Area: Celestial Mechanics, Orbital Dynamics, Theoretical Physics  
+
+---
+
+# 📂 Version
+
+**Current Version:** v1.0  
+**Release Date:** 17 February 2026  
+
+Future updates may include:
+
+- Extended mathematical derivations  
+- Simulation results  
+- Additional theoretical analysis  
+
+---
+
+# ⚠ Disclaimer
+
+This work presents a **theoretical hypothesis and conceptual research model**.
+
+The proposed framework has **not yet undergone formal peer review or experimental validation**.  
+The ideas and mathematical formulations are intended for **academic discussion, exploration, and further scientific investigation**.
+
+Readers and researchers are encouraged to critically evaluate, test, and expand upon the presented concepts.
+
+---
